@@ -51,7 +51,7 @@ Using the Java average of 53 LOC per FP:
 Using basic COCOMO (semi-detached project):
 
 - `Effort (PM) = 3.0 × (2.756)^1.12 ≈ 10.3 PM`
-- Environmental Factor (EAF) = **1.1** → Adjusted effort:  
+- Environmental Factor (EAF) = 1.1 → Adjusted effort:  
   `10.3 × 1.1 = 11.3 Person-Months`
 
 ---
@@ -60,7 +60,7 @@ Using basic COCOMO (semi-detached project):
 
 Assuming a 5-month timeline:
 
-- **Team size** = 11.3 / 5 ≈ **2.5 developers**
+- Team size = 11.3 / 5 ≈ **2.5 developers**
 - So, ideally ca. 2–3 developers
 
 ---
